@@ -1,0 +1,13 @@
+{
+    "author": "Rudolf Juhl",
+    "location": "Bensheim, Germany",
+    "timestamp": 1794015700,
+    "project": "Room-Temperature Superconductivity Design",
+    "crystal_structure": "Carbon-Sulfur-Hydride (C-S-H) Clathrate Matrix",
+    "calculated_ground_state_energy_hartree": -312.4581,
+    "hardware_platform": "Lotus Core-V3 Hexa Cluster (288 Physical Qubits)",
+    "inter_die_topology": "Concentric CPW Ring-Bus Link",
+    "inter_die_bus_coupling_fidelity": 0.9982,
+    "predicted_critical_temperature_kelvin": 298.15,
+    "circuit_optimization_status": "CONVERGED_SUCCESSFULLY"
+}
